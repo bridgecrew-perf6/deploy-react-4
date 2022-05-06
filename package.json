@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "homepage": "https://qinghuanI.github.io",
   "scripts": {
-    "dev": "vite",
+    "dev": "NODE_ENV=develpment vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
