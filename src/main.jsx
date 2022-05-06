@@ -10,7 +10,7 @@ const isDev = import.meta.env.MODE === 'development';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
-        <Router basename={isDev ? '/' : '/deploy-react'}>
+        <Router>
             <App/>
         </Router>
     </React.StrictMode>
