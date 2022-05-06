@@ -2,7 +2,7 @@
   "name": "deploy-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://qinghuanI.github.io",
+  "homepage": "https://qinghuanI.github.io/deploy-react/",
   "scripts": {
     "dev": "NODE_ENV=develpment vite",
     "build": "vite build",
